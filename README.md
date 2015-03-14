@@ -1,6 +1,6 @@
 # udacity-tournament
 
-To run this project you must create an SQL database called **tournament**. In this database, you need to create the tables and views as specified in the **tournament.sql** file.
+To run this project you must create an PostgreSQL database called **tournament**. In this database, you need to create the tables and views as specified in the **tournament.sql** file.
 
 You can test the project by running the tests defined in **tournament_test.py** file. The tests have been slightly modified to support draw games. Additionally, three more tests have been added to test odd pairings, draw games and the correct ordering of the standings (two or more players with the same amount of wins are ordered accordings to their opponents' wins (OMW)).
 
